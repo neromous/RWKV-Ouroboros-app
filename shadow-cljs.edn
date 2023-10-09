@@ -3,9 +3,18 @@
  ["src/dev"
   "src/main"
   "src/test"]
-
+ :dev-http {8080 "public"}
  :dependencies
- []
+ [[reagent "1.2.0"]
+  [cider/cider-nrepl "0.30.0"]
+  [metosin/reitit "0.5.18"]
+  [datascript "1.5.3"]
+  [cljs-ajax "0.8.4"]
+
+  ]
 
  :builds
- {}}
+ {:frontend
+  {:target :browser
+   :modules {:main {:init-fn ouroboros.app.core/init}}
+   }}}

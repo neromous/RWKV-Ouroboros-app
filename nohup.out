@@ -1,0 +1,343 @@
+shadow-cljs - config: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/shadow-cljs.edn
+shadow-cljs - updating dependencies
+shadow-cljs - dependencies updated
+shadow-cljs - HTTP server available at http://localhost:8080
+shadow-cljs - server version: 2.25.8 running at http://localhost:9630
+shadow-cljs - nREPL server started on port 44951
+shadow-cljs - watching build :frontend
+[:frontend] Configuring build.
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 0 compiled, 0 warnings, 7.52s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.38s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.32s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.32s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.33s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.31s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.32s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.34s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.32s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.31s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.32s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.33s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.30s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.31s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.33s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.38s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.27s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.30s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.31s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.32s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.33s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.29s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.30s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.26s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.32s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.32s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.30s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.30s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.29s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.29s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.36s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.25s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.29s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.30s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.29s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.29s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.24s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.31s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.27s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.25s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.52s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.29s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.31s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.24s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.21s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.25s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.28s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.30s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 1 warnings, 0.31s)
+
+[1m------ WARNING #1 - :infer-warning ---------------------------------------------[0m
+ File: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/src/main/ouroboros/app/pages/home.cljs:5:3
+--------------------------------------------------------------------------------
+[2m   2 |   (:require [reagent.core :as r]))[0m
+[2m   3 | [0m
+[2m   4 | (defn chat-view [][0m
+[1m   5 |   (r/with-let [][0m
+---------^----------------------------------------------------------------------
+ [33;1mCannot infer target type in expression (. with-let23042 -generation)[0m
+--------------------------------------------------------------------------------
+[2m   6 | [0m
+[2m   7 |     [:div.box[0m
+[2m   8 |      {:style {:height "500px"}}[0m
+[2m   9 | [0m
+--------------------------------------------------------------------------------
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.30s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 1 warnings, 0.29s)
+
+[1m------ WARNING #1 - :infer-warning ---------------------------------------------[0m
+ File: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/src/main/ouroboros/app/pages/home.cljs:5:3
+--------------------------------------------------------------------------------
+[2m   2 |   (:require [reagent.core :as r]))[0m
+[2m   3 | [0m
+[2m   4 | (defn chat-view [][0m
+[1m   5 |   (r/with-let [][0m
+---------^----------------------------------------------------------------------
+ [33;1mCannot infer target type in expression (. with-let23051 -generation)[0m
+--------------------------------------------------------------------------------
+[2m   6 |     [:div.box[0m
+[2m   7 |      {:style {:height "500px"}}[0m
+[2m   8 | [0m
+[2m   9 |      [:p "这里是聊天区域"][0m
+--------------------------------------------------------------------------------
+[:frontend] Compiling ...
+[:frontend] Build failure:
+------ ERROR -------------------------------------------------------------------
+ File: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/src/main/ouroboros/app/pages/home.cljs:9:6
+--------------------------------------------------------------------------------
+   6 |     [:div.box
+   7 |      {:style {:height "500px"}}
+   8 | 
+   9 |      (for [x in items]
+------------^-------------------------------------------------------------------
+Encountered error when macroexpanding cljs.core/for.
+Syntax error macroexpanding.
+
+--------------------------------------------------------------------------------
+  10 |        ^{:key x}
+  11 |        [:p "这里是聊天区域"]
+  12 | 
+  13 |        )
+--------------------------------------------------------------------------------
+
+[:frontend] Compiling ...
+[:frontend] Build failure:
+------ ERROR -------------------------------------------------------------------
+ File: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/src/main/ouroboros/app/pages/home.cljs:9:6
+--------------------------------------------------------------------------------
+   6 |     [:div.box
+   7 |      {:style {:height "500px"}}
+   8 | 
+   9 |      (for [x in items]
+------------^-------------------------------------------------------------------
+Encountered error when macroexpanding cljs.core/for.
+Syntax error macroexpanding.
+
+--------------------------------------------------------------------------------
+  10 |        ^{:key x}
+  11 |        [:p "这里是聊天区域"]
+  12 | 
+  13 |        )
+--------------------------------------------------------------------------------
+
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 1 compiled, 1 warnings, 0.24s)
+
+[1m------ WARNING #1 - :infer-warning ---------------------------------------------[0m
+ File: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/src/main/ouroboros/app/pages/home.cljs:5:3
+--------------------------------------------------------------------------------
+[2m   2 |   (:require [reagent.core :as r]))[0m
+[2m   3 | [0m
+[2m   4 | (defn chat-view [][0m
+[1m   5 |   (r/with-let [items (range 0 256)][0m
+---------^----------------------------------------------------------------------
+ [33;1mCannot infer target type in expression (. with-let23064 -generation)[0m
+--------------------------------------------------------------------------------
+[2m   6 |     [:div.box[0m
+[2m   7 |      {:style {:height "500px"}}[0m
+[2m   8 | [0m
+[2m   9 |      (for [x  items][0m
+--------------------------------------------------------------------------------
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 0 warnings, 0.29s)
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 1 warnings, 0.33s)
+
+[1m------ WARNING #1 - :infer-warning ---------------------------------------------[0m
+ File: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/src/main/ouroboros/app/pages/home.cljs:5:3
+--------------------------------------------------------------------------------
+[2m   2 |   (:require [reagent.core :as r]))[0m
+[2m   3 | [0m
+[2m   4 | (defn chat-view [][0m
+[1m   5 |   (r/with-let [items (range 0 256)][0m
+---------^----------------------------------------------------------------------
+ [33;1mCannot infer target type in expression (. with-let23081 -generation)[0m
+--------------------------------------------------------------------------------
+[2m   6 |     [:div.box[0m
+[2m   7 |      {:style {:height "500px"}}[0m
+[2m   8 | [0m
+[2m   9 |      (for [x  items][0m
+--------------------------------------------------------------------------------
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 2 compiled, 1 warnings, 0.33s)
+
+[1m------ WARNING #1 - :infer-warning ---------------------------------------------[0m
+ File: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/src/main/ouroboros/app/pages/home.cljs:5:3
+--------------------------------------------------------------------------------
+[2m   2 |   (:require [reagent.core :as r]))[0m
+[2m   3 | [0m
+[2m   4 | (defn chat-view [][0m
+[1m   5 |   (r/with-let [items (range 0 256)][0m
+---------^----------------------------------------------------------------------
+ [33;1mCannot infer target type in expression (. with-let23093 -generation)[0m
+--------------------------------------------------------------------------------
+[2m   6 |     (let [][0m
+[2m   7 |       [:div.box[0m
+[2m   8 |        {:style {:height "500px"}}[0m
+[2m   9 | [0m
+--------------------------------------------------------------------------------
+shadow-cljs - config: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/shadow-cljs.edn
+shadow-cljs - connected to server
+node:events:491
+      throw er; // Unhandled 'error' event
+      ^
+
+Error: EBADF: bad file descriptor, read
+Emitted 'error' event on Interface instance at:
+    at ReadStream.onerror (node:internal/readline/interface:245:10)
+    at ReadStream.emit (node:events:513:28)
+    at emitErrorNT (node:internal/streams/destroy:151:8)
+    at errorOrDestroy (node:internal/streams/destroy:214:7)
+    at node:internal/fs/streams:258:9
+    at FSReqCallback.wrapper [as oncomplete] (node:fs:682:5) {
+  errno: -9,
+  code: 'EBADF',
+  syscall: 'read'
+}
+
+Node.js v18.16.0
+[2023-10-09 16:40:06.407 - WARNING] :shadow.cljs.devtools.errors/format-error
+SocketException Broken pipe (Write failed)
+	java.net.SocketOutputStream.socketWrite0 (SocketOutputStream.java:-2)
+	java.net.SocketOutputStream.socketWrite (SocketOutputStream.java:110)
+	java.net.SocketOutputStream.write (SocketOutputStream.java:150)
+	sun.nio.cs.StreamEncoder.writeBytes (StreamEncoder.java:233)
+	sun.nio.cs.StreamEncoder.implFlushBuffer (StreamEncoder.java:312)
+	sun.nio.cs.StreamEncoder.implFlush (StreamEncoder.java:316)
+	sun.nio.cs.StreamEncoder.flush (StreamEncoder.java:153)
+	java.io.OutputStreamWriter.flush (OutputStreamWriter.java:251)
+	java.io.BufferedWriter.flush (BufferedWriter.java:257)
+	clojure.core/flush (core.clj:3712)
+	clojure.core/prn (core.clj:3722)
+	clojure.core/prn (core.clj:3715)
+Worker shutdown.
+shadow-cljs - config: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/shadow-cljs.edn
+shadow-cljs - HTTP server available at http://localhost:8080
+shadow-cljs - server version: 2.25.8 running at http://localhost:9630
+shadow-cljs - nREPL server started on port 41715
+shadow-cljs - watching build :frontend
+[:frontend] Configuring build.
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 1 compiled, 1 warnings, 7.03s)
+
+[1m------ WARNING #1 - :infer-warning ---------------------------------------------[0m
+ File: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/src/main/ouroboros/app/pages/home.cljs:5:3
+--------------------------------------------------------------------------------
+[2m   2 |   (:require [reagent.core :as r]))[0m
+[2m   3 | [0m
+[2m   4 | (defn chat-view [][0m
+[1m   5 |   (r/with-let [items (range 0 256)][0m
+---------^----------------------------------------------------------------------
+ [33;1mCannot infer target type in expression (. with-let15671 -generation)[0m
+--------------------------------------------------------------------------------
+[2m   6 |     (let [][0m
+[2m   7 |       [:div.box[0m
+[2m   8 |        {:style {:height "500px"}}[0m
+[2m   9 | [0m
+--------------------------------------------------------------------------------
+Worker shutdown.
+shadow-cljs - config: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/shadow-cljs.edn
+shadow-cljs - HTTP server available at http://localhost:8080
+shadow-cljs - server version: 2.25.8 running at http://localhost:9630
+shadow-cljs - nREPL server started on port 41713
+shadow-cljs - watching build :frontend
+[:frontend] Configuring build.
+[:frontend] Compiling ...
+[:frontend] Build completed. (235 files, 1 compiled, 1 warnings, 6.92s)
+
+[1m------ WARNING #1 - :infer-warning ---------------------------------------------[0m
+ File: /home/neromous/Documents/ouroboros/RWKV-Ouroboros-app/src/main/ouroboros/app/pages/home.cljs:5:3
+--------------------------------------------------------------------------------
+[2m   2 |   (:require [reagent.core :as r]))[0m
+[2m   3 | [0m
+[2m   4 | (defn chat-view [][0m
+[1m   5 |   (r/with-let [items (range 0 256)][0m
+---------^----------------------------------------------------------------------
+ [33;1mCannot infer target type in expression (. with-let15671 -generation)[0m
+--------------------------------------------------------------------------------
+[2m   6 |     (let [][0m
+[2m   7 |       [:div.box[0m
+[2m   8 |        {:style {:height "500px"}}[0m
+[2m   9 | [0m
+--------------------------------------------------------------------------------
+Worker shutdown.
